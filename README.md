@@ -1,6 +1,6 @@
 ## peak_caller
 
-Read in fastq files from Illumina sequencing, check average quality of reads, trim unsatisfied reads to desired length, 
+This program is written to read in fastq files from Illumina sequencing, check average quality of reads, trim unsatisfied reads to desired length, 
 map trimmed reads back to a reference genome, and call peaks based on given mapping threshold and peak distribution.
 
 
